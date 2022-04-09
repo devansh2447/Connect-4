@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Victory
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Victory\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sequence\ square\ player\ boardWidth\ boardHeight
+comment1.target=boolean\ victoryChecker(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=sequence\ square\ recurse\ player\ boardWidth\ boardHeight
+comment2.target=java.lang.String\ check1Generator(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment3.params=sequence\ square\ player\ boardWidth\ boardHeight
+comment3.target=boolean\ check1(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment4.params=sequence\ square\ recurse\ player\ boardWidth\ boardHeight
+comment4.target=java.lang.String\ check2Generator(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment5.params=sequence\ square\ player\ boardWidth\ boardHeight
+comment5.target=boolean\ check2(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment6.params=sequence\ square\ recurse\ player\ boardWidth\ boardHeight
+comment6.target=java.lang.String\ check3Generator(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment7.params=sequence\ square\ player\ boardWidth\ boardHeight
+comment7.target=boolean\ check3(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment8.params=sequence\ square\ recurse\ player\ boardWidth\ boardHeight
+comment8.target=java.lang.String\ check4Generator(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment9.params=sequence\ square\ player\ boardWidth\ boardHeight
+comment9.target=boolean\ check4(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=10

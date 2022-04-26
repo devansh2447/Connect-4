@@ -1,2 +1,2 @@
 # Connect-4
-Connect 4 gameplay in Java
+Java host for Connect-4 gameplay.
